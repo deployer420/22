@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x20596f1DB94419E58F1971A1233Bcf23D0C3F1E0",
+  "SCAN_LINK": "https://etherscan.io/address/0x20596f1DB94419E58F1971A1233Bcf23D0C3F1E0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Desert Springz",
+  "SYMBOL": "SPRINGZ",
+  "MAX_SUPPLY": 1234,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/desert-springz",
+  "SHOW_BACKGROUND": true
+}
